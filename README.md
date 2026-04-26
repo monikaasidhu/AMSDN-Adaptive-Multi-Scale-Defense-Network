@@ -10,8 +10,7 @@ The project is built around a unified defense pipeline:
 2. Adaptive attention with spatial, channel, and pyramid attention
 3. Selective feature purification guided by anomaly scores
 4. Adversarial detection from aggregated multi-scale anomaly signals
-5. Optional prediction consistency verification
-6. Self-supervised robustness training (SSRT) for warm-starting
+5. Self-supervised robustness training (SSRT) for warm-starting
 
 
 The current implementation is centered on `CIFAR-10` and is designed for experimentation, benchmarking, and research prototyping rather than production deployment.
